@@ -15,6 +15,10 @@ O projete tem como objetivo montar nossa primeira página web que será a replic
 
 Ele também pode ser utilizado como currículo 'vitae' e portfolio pessoal.
 
+## Referências:
+* W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
+* Fork do projeto: https://github.com/digitalinnovationone/cv
+
 
 <br>
 
