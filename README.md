@@ -3,18 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0093E9&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks!;+Welcome+to+my+Curriculum+v2+project)](https://git.io/typing-svg)
 
 # Preview
-![Design sem nome (2)](https://user-images.githubusercontent.com/110487772/236299578-ba9233af-0da8-4562-a95d-905a5128e0bd.gif)
+![Design sem nome (3)](https://github.com/3ielzinh/3ielzinh/assets/110487772/1c8f4e25-e564-4b35-9e65-98c56403d7ac)
 
 <br>
 
 # About
+## Curriculum Vitae Online
+Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecido pela Digital Innovation One.
 
-## EN
-### In this project, I developed a fictional GameShop using HTML and CSS. It's a simple project, but it allowed me to practice my web development skills.
-<br>
+O projete tem como objetivo montar nossa primeira página web que será a replica de um CV online, utilizando conceitos de html e Github Pages. Ao fim teremos nosso currículo pronto e disponível de forma estática.
 
-## PT-BR
-### Neste projeto, desenvolvi uma GameShop fictícia utilizando HTML e CSS. Trata-se de um projeto simples, mas que me permitiu praticar minhas habilidades de desenvolvimento web.
+Ele também pode ser utilizado como currículo 'vitae' e portfolio pessoal.
+
 
 <br>
 
